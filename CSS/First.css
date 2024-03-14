@@ -1,0 +1,35 @@
+.box
+{
+    width: 100%;
+    height: auto;
+    background-color: aqua;
+    padding: 50px;
+    display: inline-block;
+    
+}
+
+
+.container{
+    background-color:gray;
+    border: 1px solid black;
+    padding: auto;
+   
+    width: 400px;
+ padding: 20px;
+    justify-items: auto;
+    display: inline-block;
+   
+}
+.container p
+{
+    width: 300px;
+    min-height: 200px;
+    text-align: center;
+    color:black;
+    text-align: justify;
+    margin:auto;
+}
+
+.container h1{
+    text-align: center;
+}
